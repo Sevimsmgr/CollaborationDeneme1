@@ -5,5 +5,8 @@ public class Sevim {
 
 
         System.out.println("2.deneme");
+
+
+        System.out.println("3 .  deneme sesbirki");
     }
 }
