@@ -6,5 +6,10 @@ public class Sevim {
 
         System.out.println("gun 1 : deneme 1");
 
+
+
+        System.out.println("2.deneme");
+
+
     }
 }
